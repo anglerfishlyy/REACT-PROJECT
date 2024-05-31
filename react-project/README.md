@@ -76,7 +76,7 @@ A simple to-do list app built with React.
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/anglerfishlyy/todo-list-app.git
 
 2.Navigate to the project directory:
 cd todo-list-app
@@ -89,24 +89,24 @@ npm start
 
 ## Project Structure
 
-my-app/
-├── node_modules/
-├── public/
-│   ├── index.html
+my-app/<br />
+├── node_modules/ <br />
+├── public/<br />
+│   ├── index.html<br />
 │   
-├── src/
-│   ├── App.js
-│   ├── index.js
-│   └── App.css
-|    |-- index.css
-|    |--reportWebVitals.js
-|    |--TodoItem.js
-|    |--todosData.js
+├── src/<br />
+│   ├── App.js<br />
+│   ├── index.js<br />
+│   └── App.css<br />
+|    |-- index.css<br />
+|    |--reportWebVitals.js<br />
+|    |--TodoItem.js<br />
+|    |--todosData.js<br />
 |
-├── .gitignore
-├── package.json
-├── README.md
-└── package-lock.json
+├── .gitignore<br />
+├── package.json<br />
+├── README.md<br />
+└── package-lock.json<br />
 
 
 ## Further Developments
